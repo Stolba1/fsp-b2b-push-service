@@ -1,0 +1,43 @@
+{
+  "data": {
+    "metadata": {
+      "competitionId": "1",
+      "seasonYear": "2020"
+    },
+    "data": {
+      "kickOffTime": "2019-06-16T18:30:00Z",
+      "matchId": "2003456",
+      "playerId": "1",
+      "statistics": [
+        {
+          "averagePerMatch": {
+            "allPlayers": "0.012",
+            "averageFieldPosition": "GOALKEEPER",
+            "player": "0.2",
+            "playersSamePosition": "0.1"
+          },
+          "name": "GOAL",
+          "translations": {
+            "name": {
+              "FR": "buts"
+            }
+          },
+          "value": "2"
+        },
+        {
+          "attributes": {
+            "TotalMinutesAndSeconds": "89:12'"
+          },
+          "name": "MINUTES_PLAYED_OFFICIAL",
+          "translations": {
+            "name": {
+              "FR": "minutes sur le terrain"
+            }
+          },
+          "unit": "MINUTE",
+          "value": "90"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "type": "MATCH_STATE",
+  "action": {
+    "MatchStateProvider": "UPDATE"
+  },
+  "data": {
+    "eventUpdates": [
+      {
+        "action": "CREATE",
+        "event": {
+          "bodyPart": "HEAD",
+          "competitionId": "1",
+          "fieldPosition": {
+            "coordinateDestination": {
+              "x": 1000,
+              "y": 542
+            },
+            "coordinateOrigin": {
+              "x": 900,
+              "y": 544
+            },
+            "distance": 119,
+            "zone": "AREA_RIGHT_OF_THE_ATTACKING_PENALTY_AREA"
+          },
+          "matchId": "2027131",
+          "phase": "FIRST_HALF",
+          "primaryActor": {
+            "id": "93321",
+            "teamId": "50051",
+            "type": "PLAYER"
+          },
+          "seasonYear": "2020",
+          "secondaryActor": {
+            "id": "250073809",
+            "teamId": "52919",
+            "type": "PLAYER"
+          },
+          "subtype": "SOME_DUMMY_CODE",
+          "time": {
+            "minute": 28,
+            "second": 26
+          },
+          "timestamps": {
+            "dateTimeLocal": "2020-08-07T21:28:31.221",
+            "dateTimeUtc": "2020-08-07T19:28:31.221Z",
+            "timeCet": "05:21:34"
+          },
+          "type": "GOAL"
+        },
+        "eventId": "cde78add5f1841518a84c6c6c05f5e49"
+      }
+    ],
+    "matchInfo": {
+      "action": "NO_CHANGE",
+      "data": {
+        "awayTeamId": "50051",
+        "competitionId": "1",
+        "groupId": "2006983",
+        "homeTeamId": "52919",
+        "id": "2027131",
+        "kickOffTime": "2020-08-07T19:00:00Z",
+        "matchdayId": "33946",
+        "officialized": "OFFICIALIZED",
+        "relatedMatchId": "2027121",
+        "roundId": "2001141",
+        "seasonYear": "2020",
+        "type": "SECOND_LEG"
+      }
+    },
+    "matchState": {
+      "action": "NO_CHANGE",
+      "data": {
+        "matchId": "2027131",
+        "score": {
+          "regular": {
+            "away": 1,
+            "home": 0
+          },
+          "total": {
+            "away": 1,
+            "home": 0
+          }
+        },
+        "status": "UPCOMING"
+      }
+    }
+  },
+  "provider": "MATCH_STATE_PROVIDER",
+  "type": "MATCH_STATE"
+}

@@ -1,0 +1,265 @@
+{
+  "type": "MATCH_STATE",
+  "action": {
+    "MatchStateProvider": "UPDATE"
+  },
+  "data": {
+    "eventUpdates": [],
+    "lineupUpdate": {
+      "action": "UPDATE",
+      "lineup": {
+        "awayTeam": {
+          "bench": [
+            {
+              "jerseyNumber": 22,
+              "playerId": "250124304",
+              "type": "GOALKEEPER"
+            },
+            {
+              "jerseyNumber": 2,
+              "playerId": "250091841",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 8,
+              "playerId": "250115436",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 13,
+              "playerId": "250064380",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 15,
+              "playerId": "250019924",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 19,
+              "playerId": "250008167",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 30,
+              "playerId": "250101412",
+              "type": "PLAYER"
+            }
+          ],
+          "field": [
+            {
+              "jerseyNumber": 1,
+              "playerId": "250066753",
+              "type": "GOALKEEPER"
+            },
+            {
+              "jerseyNumber": 4,
+              "playerId": "250109183",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 5,
+              "playerId": "250052947",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 6,
+              "playerId": "1907928",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 7,
+              "playerId": "1905868",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 9,
+              "playerId": "69176",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 11,
+              "playerId": "250106789",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 24,
+              "playerId": "250026037",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 25,
+              "playerId": "250122327",
+              "type": "CAPTAIN"
+            },
+            {
+              "jerseyNumber": 27,
+              "playerId": "63005",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 32,
+              "playerId": "250012954",
+              "type": "PLAYER"
+            }
+          ],
+          "shirtColor": "#87CEFA",
+          "staff": [
+            {
+              "personId": "30014",
+              "role": "COACH"
+            }
+          ],
+          "teamId": "50051"
+        },
+        "homeTeam": {
+          "bench": [
+            {
+              "jerseyNumber": 13,
+              "playerId": "250061507",
+              "type": "GOALKEEPER"
+            },
+            {
+              "jerseyNumber": 6,
+              "playerId": "250081721",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 11,
+              "playerId": "250066886",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 14,
+              "playerId": "250000036",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 15,
+              "playerId": "250042779",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 21,
+              "playerId": "250084709",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 24,
+              "playerId": "250122839",
+              "type": "PLAYER"
+            }
+          ],
+          "field": [
+            {
+              "fieldCoordinate": {
+                "x": 1,
+                "y": 1
+              },
+              "jerseyNumber": 1,
+              "playerId": "250007631",
+              "type": "GOALKEEPER"
+            },
+            {
+              "fieldCoordinate": {
+                "x": 3,
+                "y": 3
+              },
+              "jerseyNumber": 4,
+              "playerId": "97744",
+              "type": "CAPTAIN"
+            },
+            {
+              "jerseyNumber": 5,
+              "playerId": "250002704",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 7,
+              "playerId": "250086090",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 8,
+              "playerId": "250121747",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 9,
+              "playerId": "106375",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 10,
+              "playerId": "95803",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 12,
+              "playerId": "93148",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 17,
+              "playerId": "250019498",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 20,
+              "playerId": "250006092",
+              "type": "PLAYER"
+            },
+            {
+              "jerseyNumber": 23,
+              "playerId": "250014003",
+              "type": "PLAYER"
+            }
+          ],
+          "shirtColor": "#000080",
+          "staff": [
+            {
+              "personId": "78924",
+              "role": "COACH"
+            }
+          ],
+          "teamId": "52919"
+        },
+        "matchId": "2027131"
+      }
+    },
+    "matchInfo": {
+      "data": {
+        "awayTeamId": "50051",
+        "competitionId": "1",
+        "groupId": "2006983",
+        "homeTeamId": "52919",
+        "id": "2027131",
+        "kickOffTime": "2020-08-07T19:00:00Z",
+        "matchdayId": "33946",
+        "officialized": "OFFICIALIZED",
+        "relatedMatchId": "2027121",
+        "roundId": "2001141",
+        "seasonYear": "2020",
+        "type": "SECOND_LEG"
+      }
+    },
+    "matchState": {
+      "data": {
+        "matchId": "2027131",
+        "score": {
+          "regular": {
+            "away": 1,
+            "home": 0
+          },
+          "total": {
+            "away": 1,
+            "home": 0
+          }
+        },
+        "status": "UPCOMING"
+      }
+    }
+  },
+  "provider": "MATCH_STATE_PROVIDER",
+  "type": "MATCH_STATE"
+}
